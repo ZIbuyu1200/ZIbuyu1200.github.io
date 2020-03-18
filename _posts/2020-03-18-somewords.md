@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 写在开始的一些话
-category: notes
-tags: [notes]
-excerpt: 爬虫岗位必看，避免同事变狱友！
+category: CSS
+tags: [css]
 ---
+
 ### 写在开始的一些话
 
 Hello，World！
