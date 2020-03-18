@@ -1,11 +1,7 @@
----
-​---
 layout: post
 title: 写在开始的一些话
 category: Notes
 tags: [Notes]
-​---
----
 
 ### 写在开始的一些话
 
