@@ -20,7 +20,7 @@ repository: ZIbuyu200/ZIbuyu1200.github.io # ex. DONGChuan/DONGChuan.github.io
 
 
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: http://ZIbuyu1200.github.io
+url: http://zibuyu1200.github.io
 
 ## Gem
 gems:
