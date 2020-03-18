@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 写在开始的一些话
-category: CSS
-tags: [css]
+category: note
+tags: [note]
 ---
-
-## 写在开始的一些话
 
 Hello，World！
 
